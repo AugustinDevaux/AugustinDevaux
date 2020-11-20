@@ -4,4 +4,4 @@
 
 ## Bienvenue sur mon GitHub
 
-Plus d'infos sur mon [<img width="2%" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />](https://www.linkedin.com/in/augustin-devaux-96997890/)
+[<img width="2%" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />](https://www.linkedin.com/in/augustin-devaux-96997890/)
